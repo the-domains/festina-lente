@@ -1,0 +1,28 @@
+name: Festina Lente
+favicon: null
+layout_spectrum: 0.9145625487435609
+typography_spectrum: 0.721111380495131
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9126129974611104
+  lightness: 0.3768481188453734
+  saturation: 0.36714250640943646
+  rhythmicContrast: 0.8857967872172594
+purpose: []
